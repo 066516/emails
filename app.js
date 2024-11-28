@@ -96,4 +96,3 @@ function sendEmailsFromCSV(filePath) {
 // Example usage
 const csvFilePath = "GCPC - Organizers.csv"; // Path to your CSV file
 // sendEmailsFromCSV(csvFilePath);
-sendStyledEmail("imadeddinefillaliusthb@gmail.com", "imad", "imad");
